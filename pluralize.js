@@ -1,4 +1,5 @@
 /* global define */
+console.log('Hi there');
 
 (function (root, pluralize) {
   /* istanbul ignore else */
